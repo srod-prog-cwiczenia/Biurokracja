@@ -1,0 +1,21 @@
+
+Zakład Teorii Mnogości:
+
+Most important scientific achievement during the reporting period:
+
+
+2. Most important publication published during the reporting period:
+
+  Thilo Kuessner, Janusz Przewocki, Andreas Zastrow, Forum Mathematicum 38/5 pages
+1297--1333. (year 2026).
+ 
+  The injectivity of the canonical map from singular homology to measure homology 
+was proven for certain "mildly wild" spaces, 
+namely spaces that do not have the homotopy type of a CW-complex but have countable fundamental groups.
+
+
+3. Social and economic impact of research 
+(examples of the use of research results by society or the economy during the reporting period) 
+
+
+
