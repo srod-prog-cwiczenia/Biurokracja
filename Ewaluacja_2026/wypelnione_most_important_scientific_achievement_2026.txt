@@ -3,6 +3,18 @@ Zakład Teorii Mnogości:
 
 1. Most important scientific achievement during the reporting period:
 
+An investigation of the Marczewski–Burstin countable representability of ideals
+(in short: MBC). A concept of extendability to MBC ideals was introduced, 
+and several of its properties were established, 
+including the fact that this notion lies between the notions of 
+omega-+-diagonalizability and countable separability. 
+The question posed in the paper
+
+,,Ideals of nowhere dense sets in some topologies on positive integers''
+Kwela M., Nowik A., Topology Appl. 248 (2018), 149–163 
+
+was answered by showing that the ideal overline{ctbl} is not MBC.
+(all results by M.Kwela & J.Tryba)
 
 2. Most important publication published during the reporting period:
 
@@ -15,7 +27,6 @@ in the Polish Ministry of Science's official journal ranking list.
 was proven for certain "mildly wild" spaces, 
 namely spaces that do not have the homotopy type of a CW-complex but have countable fundamental groups.
 
-
 3. Social and economic impact of research 
 (examples of the use of research results by society or the economy during the reporting period) 
 
@@ -25,13 +36,11 @@ Tomasz Borzyszkowski, Elzbieta Szaruga, Michał Pluciński
 Intelligent Management and Artificial Intelligence: Trends, Challenges, and Opportunities, Vol. 2
 pages 436--454, year 2025:
 
-
-The results of the study contribute to improving the quality and reliability of AIS 
+  The results of the study contribute to improving the quality and reliability of AIS 
 (Automatic Identification System) data used in maritime transport. 
 By identifying data inconsistencies and anomalies, the proposed approach supports the development of more 
 accurate and robust systems for vessel monitoring, traffic management, and maritime decision-making.
-
-The research outcomes may be applied by maritime authorities, 
+  The research outcomes may be applied by maritime authorities, 
 shipping companies, port operators, and developers of AI-based maritime systems. 
 Improved AIS data quality can enhance navigational safety, 
 optimize vessel operations, reduce operational costs, 
