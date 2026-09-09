@@ -45,3 +45,12 @@ shipping companies, port operators, and developers of AI-based maritime systems.
 Improved AIS data quality can enhance navigational safety, 
 optimize vessel operations, reduce operational costs, 
 and support more sustainable maritime transport through better route planning and resource management.
+
+4.Papers in leading publications:
+
+A publication worth 100 MSWiA points:
+
+Kuessner, Thilo; Przewocki, Janusz; Zastrow, Andreas
+"On measure homology of mildly wild spaces."
+Forum Math. 38 (2026), no. 5, 1297--1333. 
+DOI:10.1515/forum-2024-0046.
